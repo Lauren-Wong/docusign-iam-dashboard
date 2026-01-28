@@ -38,7 +38,7 @@ This project is designed to be **GitHub-safe**:
 
 - Node.js >= 18.0.0
 - npm >= 9.0.0
-- DocuSign Developer Account (free at https://go.docusign.com/sandbox/productshot)
+- DocuSign Developer Account (free at https://developers.docusign.com)
 - OpenSSL (for generating RSA keys)
 
 ## 🚀 Quick Start
