@@ -46,7 +46,7 @@ This project is designed to be **GitHub-safe**:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/docusign-iam-dashboard.git
+git clone https://github.com/Lauren-Wong/docusign-iam-dashboard.git
 cd docusign-iam-dashboard
 ```
 
